@@ -1,0 +1,32 @@
+C:\Users\vitor.goliveira15\source\repos\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\App_Calculadora.Form_Principal.resources
+C:\Users\vitor.goliveira15\source\repos\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\App_Calculadora.csproj.GenerateResource.cache
+C:\Users\vitor.goliveira15\source\repos\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\App_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.goliveira15\source\repos\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\App_Calculadora.AssemblyInfoInputs.cache
+C:\Users\vitor.goliveira15\source\repos\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\App_Calculadora.AssemblyInfo.cs
+C:\Users\vitor.goliveira15\source\repos\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\App_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\vitor.goliveira15\source\repos\App_Calculadora\App_Calculadora\bin\Debug\net8.0-windows\App_Calculadora.exe
+C:\Users\vitor.goliveira15\source\repos\App_Calculadora\App_Calculadora\bin\Debug\net8.0-windows\App_Calculadora.deps.json
+C:\Users\vitor.goliveira15\source\repos\App_Calculadora\App_Calculadora\bin\Debug\net8.0-windows\App_Calculadora.runtimeconfig.json
+C:\Users\vitor.goliveira15\source\repos\App_Calculadora\App_Calculadora\bin\Debug\net8.0-windows\App_Calculadora.dll
+C:\Users\vitor.goliveira15\source\repos\App_Calculadora\App_Calculadora\bin\Debug\net8.0-windows\App_Calculadora.pdb
+C:\Users\vitor.goliveira15\source\repos\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\App_Calculadora.dll
+C:\Users\vitor.goliveira15\source\repos\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\refint\App_Calculadora.dll
+C:\Users\vitor.goliveira15\source\repos\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\App_Calculadora.pdb
+C:\Users\vitor.goliveira15\source\repos\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\App_Calculadora.genruntimeconfig.cache
+C:\Users\vitor.goliveira15\source\repos\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\ref\App_Calculadora.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\App_Calculadora\App_Calculadora\App_Calculadora\bin\Debug\net8.0-windows\App_Calculadora.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\App_Calculadora\App_Calculadora\App_Calculadora\bin\Debug\net8.0-windows\App_Calculadora.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\App_Calculadora\App_Calculadora\App_Calculadora\bin\Debug\net8.0-windows\App_Calculadora.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\App_Calculadora\App_Calculadora\App_Calculadora\bin\Debug\net8.0-windows\App_Calculadora.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\App_Calculadora\App_Calculadora\App_Calculadora\bin\Debug\net8.0-windows\App_Calculadora.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\App_Calculadora.Form_Principal.resources
+C:\Users\ferna\OneDrive\Área de Trabalho\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\App_Calculadora.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\App_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\App_Calculadora.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\App_Calculadora.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\App_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\App_Calculadora.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\refint\App_Calculadora.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\App_Calculadora.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\App_Calculadora.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\net8.0-windows\ref\App_Calculadora.dll
